@@ -5,3 +5,6 @@ Nick Carraway attends one of these parties, marveling at the opulence and chaos.
 Gatsby finally appears, and Nick is surprised to find him approach him directly. Gatsby, recognizing Nick from their previous encounter, strikes up a conversation.
 Gatsby takes Nick aside and shares his fascination with Daisy Buchanan, revealing that the parties are merely a means to attract Daisy's attention, as he hopes she will attend one.
 Gatsby's longing for the past and his obsession with Daisy become more evident as he recounts their romantic history to Nick.
+
+------------------------------------------
+This addition is on new branch child
