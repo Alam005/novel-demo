@@ -14,3 +14,10 @@ atsby reveals to Nick that he is an Oxford man and provides a list of his achiev
 The party continues into the night, with Gatsby extending his hospitality to all attendees. The revelry, coupled with Gatsby's enigmatic presence, contributes to the allure and fascination surrounding him.
 
 Despite the festive atmosphere, Gatsby appears somewhat detached and pensive. His longing for Daisy Buchanan, who lives across the bay, becomes evident as he watches the green light on Daisy's dock.
+
+-----------------------------------------
+Added new two paragraph in bug-fix branch
+-----------------------------------------
+Gatsby's parties are characterized by music, dancing, and an abundance of food and drink. The atmosphere is both exhilarating and surreal, with guests speculating about Gatsby's background and the source of his wealth.
+
+Gatsby takes a particular interest in Nick, approaching him and striking up a conversation. Gatsby's charm and charisma make an impression on Nick, who is curious about Gatsby's true identity and motives.
